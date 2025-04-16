@@ -118,4 +118,18 @@ GROUP BY calendar_year,platform,total_sales,transaction_count;
    that is 2 weeks into the month of june.
 - let us see the total sales for the 4 weeks before the baseline date and after the date.
 - also the total sales,total transactions for the 12 weeks before the baseline date and after the date.
-  
+
+
+### Sales percentage change 4 weeks within baseline date
+Overall sales remained unchanged over the 4-week period, but this was largely due to new middle-aged families in Europe on the Shopify platform, who contributed a +5% lift.
+Their growth helped absorb slowdowns in other segments, making them a critical buffer for the business during this period. 
+
+## Sales percentage change 12 weeks within baseline date
+The -9% drop in sales is partially driven by couples in Oceania (within the young adults segment) on the Shopify platform. 
+However, it's important to note that couples in Oceania have shown stagnant sales on Shopify, indicating a lack of growth in this segment.
+The stagnation suggests that Shopify might be reaching its peak potential for this demographic in Oceania,
+and re-engagement strategies or new initiatives might be required to spark growth again.
+
+## Transaction percentage change 12 weeks within baseline date
+The 9% decrease in transactions over the 12-week period is notably influenced by Europe, which has the highest transaction count. This market alone contributes 4% of the overall transaction percentage change reduction.
+The drop in transactions is mainly driven by newly retired couples in Europe on the Retail platform, although this group has shown consistent growth over the years. The temporary reduction could be linked to seasonal factors or market adjustments, but Europe remains a key market for long-term transaction growth.
