@@ -142,6 +142,8 @@ From the chart below, Shopify sales for Young Adults  couples remained the same 
 The 9% decrease in transactions over the 12-week period is notably influenced by Europe, which has the highest transaction count. This market alone contributes 4% of the overall transaction percentage change reduction.
 The drop in transactions is mainly driven by newly retired couples in Europe on the Retail platform, although this group has shown consistent growth over the years. The temporary reduction could be linked to seasonal factors or market adjustments.
 
+Africa was the second highest contributor, also due to newly retired families on Retail. 
+
 Newly retired couples in Europe 
 ![new retired couples](
 https://github.com/Ifeoma28/data_mart/blob/7fe5d990cf12bbb15c642968f185599459b835ff/new%20retirred%20couples%20retail.png)
@@ -150,6 +152,8 @@ https://github.com/Ifeoma28/data_mart/blob/7fe5d990cf12bbb15c642968f185599459b83
 - The decline in transactions during the 12 weeks change may indicate that they are either reducing spending or perhaps experiencing a shift in their shopping behavior as they adjust to a new lifestyle post-retirement.(new retired couples)
 - Existing customers have the highest transaction count.
 - A lot of our customers demographic were unkwown.
+- Couples has the highest number of transactions (47.04%)
+- 
 - Shopify platform has a higher average transaction value indicating higher spending customers
 
 ## RECOMMENDATION
