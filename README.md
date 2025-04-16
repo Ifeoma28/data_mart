@@ -127,9 +127,19 @@ Their growth helped absorb slowdowns in other segments, making them a critical b
 ## Sales percentage change 12 weeks within baseline date
 The -9% drop in sales is partially driven by couples in Oceania (within the young adults segment) on the Shopify platform. 
 However, it's important to note that couples in Oceania have shown stagnant sales on Shopify, indicating a lack of growth in this segment.
-The stagnation suggests that Shopify might be reaching its peak potential for this demographic in Oceania,
-and re-engagement strategies or new initiatives might be required to spark growth again.
+The stagnation suggests that Shopify might be reaching its peak potential for this demographic in Oceania.
 
 ## Transaction percentage change 12 weeks within baseline date
 The 9% decrease in transactions over the 12-week period is notably influenced by Europe, which has the highest transaction count. This market alone contributes 4% of the overall transaction percentage change reduction.
-The drop in transactions is mainly driven by newly retired couples in Europe on the Retail platform, although this group has shown consistent growth over the years. The temporary reduction could be linked to seasonal factors or market adjustments, but Europe remains a key market for long-term transaction growth.
+The drop in transactions is mainly driven by newly retired couples in Europe on the Retail platform, although this group has shown consistent growth over the years. The temporary reduction could be linked to seasonal factors or market adjustments.
+
+## KEY INSIGHTS
+- Europe, South America and USA remains a key market for long-term transaction growth with Europe having the highest transaction count.
+- The decline in transactions during the 12 weeks change may indicate that they are either reducing spending or perhaps experiencing a shift in their shopping behavior as they adjust to a new lifestyle post-retirement.(new retired couples)
+- Existing customers have the highest transaction count.
+- A lot of our customers demographic were unkwown.
+- Shopify platform has a higher average transaction value indicating higher spending customers
+
+## RECOMMENDATION
+- Re-engagement strategies or new initiatives might be required to spark growth again for young adults especially in Oceania.
+- 
