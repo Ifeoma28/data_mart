@@ -111,6 +111,8 @@ FROM
 GROUP BY calendar_year,platform,total_sales,transaction_count;
 -- this is the average amount of dollars ppl spend yearly for each platform
 ```
+Average transaction value breakdown 
+[AVT](https://github.com/Ifeoma28/data_mart/blob/a4b6f6319f2cb5d9f61e53790d890dac52d16d90/average%20transaction%20value%20breakdown.png)
 
 ## Analysis
 - we want to inspect the impact of the package that was introduced in June 2020
