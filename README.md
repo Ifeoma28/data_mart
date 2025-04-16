@@ -153,5 +153,45 @@ https://github.com/Ifeoma28/data_mart/blob/7fe5d990cf12bbb15c642968f185599459b83
 - Shopify platform has a higher average transaction value indicating higher spending customers
 
 ## RECOMMENDATION
+Based on our Analysis:
 - Re-engagement strategies or new initiatives might be required to spark growth again for young adults especially in Oceania.
-- 
+-  Most Impacted by the Change
+Platform:
+Retail platform experienced a 10% sales reduction and 9% transaction drop, making it the most impacted platform.
+
+Shopify also had a 3% sales decrease, mostly in Oceania from young adult couples.
+Region:
+Europe showed the highest overall transaction volume, and contributed to 4% of the transaction reduction.
+
+It also saw no sales growth despite large customer bases, pointing to saturation or sensitivity to change.
+
+Customer Segment:
+
+New Customers in Europe (Middle-aged families in Shopify) held steady and even contributed positively, softening the blow.
+
+Newly Retired Couples in Retail Europe were a major source of the transaction drop despite long-term growth.
+
+Young Adult Couples in Oceania on Shopify had stagnant performance in 2020.
+
+Customer Types:
+
+Retired Families and Newly Retired Couples on Retail were most sensitive to change.
+
+New Customers in Europe showed the most resilience and growth potential, especially on Shopify.
+
+- This means that Europe, despite being a high-volume region, is highly influential and must be handled carefully during transitions.
+
+- Focus growth on Shopify, especially in Europe, USA and SouthAmerica and with new customers who show strong transaction values.
+- Support Retail’s older customers (retired families) with clear communication and tailored offers during sustainability changes.
+
+- Use Oceania’s younger segments to test and refine strategies.
+
+- Invest in education and loyalty programs to build goodwill and smooth out future transitions.
+
+- Make region-specific plans rather than one-size-fits-all approaches. for instance Shopify in Europe stays consistent but doesn’t grow much—indicating a mature market.
+
+## How to Minimize Future Impact of Sustainability Updates
+-Platform Optimization:
+Focus Shopify as the lead platform for product categories or campaigns tied to sustainability.
+
+Leverage its higher average transaction value and steady customer base to absorb potential impact.
