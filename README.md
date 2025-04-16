@@ -129,6 +129,8 @@ Overall sales remained unchanged over the 4-week period, but this was largely du
 Their growth helped absorb slowdowns in other segments, making them a critical buffer for the business during this period. 
 
 ## Sales percentage change 12 weeks within baseline date
+
+![sales 12-weeks change](https://github.com/Ifeoma28/data_mart/blob/faee1e59a652235ec2ecc0fb28a49d5e1b450516/sales%20%25%20change%20(12%20weeks).png)
 The -9% drop in sales is partially driven by couples in Oceania (within the young adults segment) on the Shopify platform. 
 However, it's important to note that couples in Oceania have shown stagnant sales on Shopify, indicating a lack of growth in this segment.
 The stagnation suggests that Shopify might be reaching its peak potential for this demographic in Oceania.
