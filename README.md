@@ -160,12 +160,12 @@ Platform:
 Retail platform experienced a 10% sales reduction and 9% transaction drop, making it the most impacted platform.
 
 Shopify also had a 3% sales decrease, mostly in Oceania from young adult couples.
-Region:
+- Region:
 Europe showed the highest overall transaction volume, and contributed to 4% of the transaction reduction.
 
 It also saw no sales growth despite large customer bases, pointing to saturation or sensitivity to change.
 
-Customer Segment:
+- Customer Segment:
 
 New Customers in Europe (Middle-aged families in Shopify) held steady and even contributed positively, softening the blow.
 
@@ -173,7 +173,7 @@ Newly Retired Couples in Retail Europe were a major source of the transaction dr
 
 Young Adult Couples in Oceania on Shopify had stagnant performance in 2020.
 
-Customer Types:
+- Customer Types:
 
 Retired Families and Newly Retired Couples on Retail were most sensitive to change.
 
