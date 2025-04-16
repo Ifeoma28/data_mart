@@ -12,7 +12,7 @@ In June 2020 - large scale supply changes were made at Data Mart. All Data Mart 
 - What can we do about future introduction of similar sustainability updates to the business to minimise impact on sales?
 
 ### ABOUT DATASET
-For this case study there is only a single table: data_mart.weekly_sales
+For this case study there is only a single table: data_mart.weekly_sales. 
 Data Mart has international operations using a multi-region strategy
 Data Mart has both, a retail and online platform in the form of a Shopify store front to serve their customers
 Customer segment and customer_type data relates to personal age and demographics information that is shared with Data Mart
@@ -135,7 +135,7 @@ The -9% drop in sales is partially driven by couples in Oceania (within the youn
 However, it's important to note that couples in Oceania have shown stagnant sales on Shopify, indicating a lack of growth in this segment.
 The stagnation suggests that Shopify might be reaching its peak potential for this demographic in Oceania.
 
-From the chart below, Shopify sales for Young Adults remained the same from 2019 to 2020.
+From the chart below, Shopify sales for Young Adults  couples remained the same from 2019 to 2020.
 ![young adults segment](https://github.com/Ifeoma28/data_mart/blob/a9ae72a6419e109ed9f90023488ea7456874f014/young%20adults%20sales%20in%20Oceania.png)
 
 ## Transaction percentage change 12 weeks within baseline date
