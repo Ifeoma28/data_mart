@@ -123,6 +123,8 @@ Average transaction value breakdown
 
 
 ### Sales percentage change 4 weeks within baseline date
+
+![sales 4-week change](https://github.com/Ifeoma28/data_mart/blob/c60811719c337acc98f1b1815e9ba159bf179036/Sales%20%25%20change%20(4%20weeks).png)
 Overall sales remained unchanged over the 4-week period, but this was largely due to new middle-aged families in Europe on the Shopify platform, who contributed a +5% lift.
 Their growth helped absorb slowdowns in other segments, making them a critical buffer for the business during this period. 
 
