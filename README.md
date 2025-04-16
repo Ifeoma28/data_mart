@@ -135,6 +135,9 @@ The -9% drop in sales is partially driven by couples in Oceania (within the youn
 However, it's important to note that couples in Oceania have shown stagnant sales on Shopify, indicating a lack of growth in this segment.
 The stagnation suggests that Shopify might be reaching its peak potential for this demographic in Oceania.
 
+From the chart below, Shopify sales for Young Adults remained the same from 2019 to 2020.
+![young adults segment](https://github.com/Ifeoma28/data_mart/blob/a9ae72a6419e109ed9f90023488ea7456874f014/young%20adults%20sales%20in%20Oceania.png)
+
 ## Transaction percentage change 12 weeks within baseline date
 The 9% decrease in transactions over the 12-week period is notably influenced by Europe, which has the highest transaction count. This market alone contributes 4% of the overall transaction percentage change reduction.
 The drop in transactions is mainly driven by newly retired couples in Europe on the Retail platform, although this group has shown consistent growth over the years. The temporary reduction could be linked to seasonal factors or market adjustments.
