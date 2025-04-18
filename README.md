@@ -124,9 +124,13 @@ Average transaction value breakdown
 
 ### Sales percentage change 4 weeks within baseline date
 
-![sales 4-week change](https://github.com/Ifeoma28/data_mart/blob/c60811719c337acc98f1b1815e9ba159bf179036/Sales%20%25%20change%20(4%20weeks).png)
-Overall sales remained unchanged over the 4-week period, but this was largely due to new middle-aged families in Europe on the Shopify platform, who contributed a +5% lift.
-Their growth helped absorb slowdowns in other segments, making them a critical buffer for the business during this period. 
+Even with a net -1% dip in overall sales, strong upward trends in key segments suggest:
+
+New acquisition efforts are working, especially among retiree couples in Europe.
+
+Retail remains a high-impact platform for certain customer groups.
+
+Some platforms or regions may be underperforming and pulling the overall percentage down.
 
 ## Sales percentage change 12 weeks within baseline date
 
@@ -135,26 +139,38 @@ The primary driver of the overall -1% sales drop is Shopify > South America > Gu
 
 This means guests in South America with unknown profiles increased their activity, but this likely diluted the average sales quality/value, contributing negatively overall.
 
+The increase in guest sales (especially those with unknown customer details) may seem positive in volume but doesn’t necessarily convert to high-value sales, leading to a negative net effect on performance.
+
 
 
 
 ## Transaction percentage change 12 weeks within baseline date
-The 9% decrease in transactions over the 12-week period is notably influenced by Europe, which has the highest transaction count. This market alone contributes 4% of the overall transaction percentage change reduction.
-The drop in transactions is mainly driven by newly retired couples in Europe on the Retail platform, although this group has shown consistent growth over the years. The temporary reduction could be linked to seasonal factors or market adjustments.
+The transaction decline of -1% overall is modest, considering the strong positive activity from couples and retirees.
 
-Africa was the second highest contributor, also due to newly retired families on Retail. 
+The drop in Shopify transactions among couples slightly offset these gains.
 
-Newly retired couples in Europe 
-![new retired couples](
-https://github.com/Ifeoma28/data_mart/blob/7fe5d990cf12bbb15c642968f185599459b835ff/new%20retirred%20couples%20retail.png)
+Retail is the stronger-performing platform for the key demographic of retiree couples.
+
 ## KEY INSIGHTS
-- Europe, South America and USA remains a key market for long-term transaction growth with Europe having the highest transaction count.
-- The decline in transactions during the 12 weeks change may indicate that they are either reducing spending or perhaps experiencing a shift in their shopping behavior as they adjust to a new lifestyle post-retirement.(new retired couples)
-- Existing customers have the highest transaction count.
+- Transactions decreased by 1% overall within the 12-week baseline window.
+
+- Europe Drove Growth
++3% contribution from Europe, largely from new customers, showing regional strength and engagement.
+
+- New customers added +9% to transaction growth, signaling strong acquisition or onboarding efforts.
+- Retirees Are Highly Active
+Retirees alone contributed +14%, revealing them as a growing and highly engaged segment.
+
+- Couples Lead the Pack
++14% of growth came from couples, showing their strong influence, especially among retirees.
+
+- Retail Platform Dominates
+Most of couples' positive impact came via retail transactions, confirming retail as the preferred channel.
+- Guest customers have the highest transaction count.
 - A lot of our customers demographic were unkwown.
 - Couples has the highest number of transactions (47.04%)
-- 
-- Shopify platform has a higher average transaction value indicating higher spending customers
+- Shopify Is Losing Couples,-2% contribution from couples on Shopify indicates platform disengagement or dissatisfaction in this group.
+- Shopify platform has a higher average transaction value (81.27%) indicating higher spending customers
 
 ## RECOMMENDATION
 Based on our Analysis:
