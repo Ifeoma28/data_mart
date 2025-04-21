@@ -120,6 +120,7 @@ Average transaction value breakdown
    that is 2 weeks into the month of june.
 - let us see the total sales for the 4 weeks before the baseline date and after the date.
 - also the total sales,total transactions for the 12 weeks before the baseline date and after the date.
+- We developed a metric called New customer impact which tells us the percentage of new customers within the 12 weeks baseline window.
 
 
 ### Sales percentage change 4 weeks within baseline date
@@ -152,61 +153,37 @@ The drop in Shopify transactions among couples slightly offset these gains.
 Retail is the stronger-performing platform for the key demographic of retiree couples.
 
 ## KEY INSIGHTS
-- Transactions decreased by 1% overall within the 12-week baseline window.
-
+- Transactions decreased by 1% overall within the 12-week baseline window with Platform-level-performance
+  Shopify 0.06%
+   retail -0.03%
+- Sales decreased by 1% overall within the 12-week baseline window with Platform-level-performance
+  Shopify 0.05%
+  retail -0.01%
 - Europe Drove Growth
-+3% contribution from Europe, largely from new customers, showing regional strength and engagement.
-
+  4% contribution from Europe,while Asia and South America drove growth for Shopify sales showing regional strength and engagement
 - New customers added +9% to transaction growth, signaling strong acquisition or onboarding efforts.
 - Retirees Are Highly Active
 Retirees alone contributed +14%, revealing them as a growing and highly engaged segment.
-
-- Couples Lead the Pack
-+14% of growth came from couples, showing their strong influence, especially among retirees.
-
-- Retail Platform Dominates
-Most of couples' positive impact came via retail transactions, confirming retail as the preferred channel.
+- 15% of retail sales  contributed to the overall transaction change decline with +14%  coming from couples, showing their strong influence, especially among retirees.
 - Guest customers have the highest transaction count.
-- A lot of our customers demographic were unkwown.
-- Couples has the highest number of transactions (47.04%)
+- New customer impact is 3% indicating a positive contribution to overall sales in the 12week period and also a 9% impact on transaction change
+- - Retail Couples Lead the Pack with an 83% increase in transaction
+- A lot of our customers demographic were unkwown especially among Shopify customers and they showed a 5.5% increase in transaction
+- Couples has the highest number of transactions (47.04%) from the total transactions.
 - Shopify Is Losing Couples,-2% contribution from couples on Shopify indicates platform disengagement or dissatisfaction in this group.
 - Shopify platform has a higher average transaction value (81.27%) indicating higher spending customers
+- Shopify Platform sales increases after sustainability changes as the AVT percentage change is higher compared to retail.
 
 ## RECOMMENDATION
-Based on our Analysis:
-- Re-engagement strategies or new initiatives might be required to spark growth again for young adults especially in Oceania.
--  Most Impacted by the Change
-Platform:
-Retail platform experienced a 10% sales reduction and 9% transaction drop, making it the most impacted platform.
+- Better Segmentation
+- Double down on new customer acquisition 
+- Continue to invest in campaigns,referral programs or first-time buyer incentives to sustain this positive momentum
+- We can see from the sales by customer type that existing customers show a slight negative impact on sales
+  To help this, analyzing churn behaviour or drop-off points in each region and collecting feedbacks from existing customers to
+  identify pain-points(eg surveys)
+- 
 
-Shopify also had a 3% sales decrease, mostly in Oceania from young adult couples.
-- Region:
-Europe showed the highest overall transaction volume, and contributed to 4% of the transaction reduction.
 
-It also saw no sales growth despite large customer bases, pointing to saturation or sensitivity to change.
-
-- Customer Segment:
-
-New Customers in Europe (Middle-aged families in Shopify) held steady and even contributed positively, softening the blow.
-
-Newly Retired Couples in Retail Europe were a major source of the transaction drop despite long-term growth.
-
-Young Adult Couples in Oceania on Shopify had stagnant performance in 2020.
-
-- Customer Types:
-
-Retired Families and Newly Retired Couples on Retail were most sensitive to change.
-
-New Customers in Europe showed the most resilience and growth potential, especially on Shopify.
-
-- This means that Europe, despite being a high-volume region, is highly influential and must be handled carefully during transitions.
-
-- Focus growth on Shopify, especially in Europe, USA and SouthAmerica and with new customers who show strong transaction values.
-- Support Retail’s older customers (retired families) with clear communication and tailored offers during sustainability changes.
-
-- Use Oceania’s younger segments to test and refine strategies.
-
-- Invest in education and loyalty programs to build goodwill and smooth out future transitions.
 
 - Make region-specific plans rather than one-size-fits-all approaches. for instance Shopify in Europe stays consistent but doesn’t grow much—indicating a mature market.
 
