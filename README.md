@@ -157,7 +157,7 @@ The increase in guest sales (especially those with unknown customer details) may
 
 ## Transaction percentage change 12 weeks within baseline.
 
-![transaction](https://github.com/Ifeoma28/data_mart/blob/c8cd8c359cad8ebe2b354f73496febdc0de5afd8/transaction%20%25%20change.png)
+![transaction](https://github.com/Ifeoma28/data_mart/blob/40546f44e317c4158056c6c126be81c8f03175c1/transaction%20change%2012%20weeks.png)
 The transaction decline of -1% overall is modest, considering the strong positive activity from couples and retirees.
 
 The drop in Shopify transactions among couples slightly offset these gains.
@@ -207,16 +207,15 @@ Sustainability update appears to positively impact Shopify more than Retail.
 
 
 ## RECOMMENDATION
-- Better Segmentation
+- Better Segmentation for unknown demographics and age band.
 - Double down on new customer acquisition 
 - Continue to invest in campaigns,referral programs or first-time buyer incentives to sustain this positive momentum
 - We can see from the sales by customer type that existing customers show a slight negative impact on sales
-  To help this, analyzing churn behaviour or drop-off points in each region and collecting feedbacks from existing customers to
-  identify pain-points(eg surveys)
+- To help this, analyzing churn behaviour or drop-off points in each region and collecting feedbacks from existing customers to identify pain-points(eg surveys)
 - Prioritize Shopify Engagement
 Capitalize on Shopify’s high ATV (81.27%) and positive sales growth by tailoring premium offers or loyalty programs to this high-value segment.
 
-- Monitor Retail Trends & Couples’ Behavior
+- Monitor Retail Trends & Couples Behavior
 Retail platform shows overall decline. The Retail-Couples group had an 83% increase in transactions, highlighting a potential niche—invest in storytelling, promotions, or bundles that resonate with this group.
 
 Examine 15% retail sales decline contributors and test targeted recovery strategies.
@@ -227,9 +226,9 @@ Examine 15% retail sales decline contributors and test targeted recovery strateg
 By Assessing store format, pricing, and customer experience.
 
 ## How to Minimize Future Impact of Sustainability Updates
--Platform Optimization:
+- Platform Optimization:
 Focus Shopify as the lead platform for product categories or campaigns tied to sustainability.
 
-Leverage its higher average transaction value and steady customer base to absorb potential impact.
+- Leverage its higher average transaction value and steady customer base to absorb potential impact.
 
 - Understanding which demographic and age band affects sales more and getting their preferences through Surveys before a sustainability change is made.
