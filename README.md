@@ -143,7 +143,8 @@ Retail remains a high-impact platform for certain customer groups.
 Some platforms or regions may be underperforming and pulling the overall percentage down.
 
 ## Sales percentage change 12 weeks within baseline date
-
+![sales 12-weeks](
+https://github.com/Ifeoma28/data_mart/blob/66fe3c6cd66c8ba7486cc7a7dfddae18806abf08/Sales%20%25%20change%2012%20weeks.png)
 
 The primary driver of the overall -1% sales drop is Shopify > South America > Guest > Unknown Age Band & Demographic, which shows a +11% contribution to change.
 
