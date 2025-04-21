@@ -2,6 +2,10 @@
 An online supermarket that specialises in fresh produce.
 ![datamart](https://github.com/Ifeoma28/data_mart/blob/a315e7e75f17a97c710a87f7a08c458e1f4f3ea9/datamart%20visual%20dashboard.png)
 
+12 weeks baseline analysis 
+![sustainability](
+https://github.com/Ifeoma28/data_mart/blob/1e0a6d37d938e322c0a251a61c9cf2fa9fbe0260/sustainability%20changes.png)
+
 ## PROJECT OVERVIEW
 Data Mart is Danny’s latest venture and after running international operations for his online supermarket that specialises in fresh produce - Danny is asking for your support to analyse his sales performance.
 
@@ -205,6 +209,7 @@ Highlights the need for better segmentation and data completeness.
 
 Sustainability update appears to positively impact Shopify more than Retail.
 
+![sustainability](https://github.com/Ifeoma28/data_mart/blob/1e0a6d37d938e322c0a251a61c9cf2fa9fbe0260/sustainability%20changes.png)
 
 ## RECOMMENDATION
 - Better Segmentation for unknown demographics and age band.
