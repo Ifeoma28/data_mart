@@ -18,6 +18,8 @@ Data Mart has international operations using a multi-region strategy.
 
 Data Mart has both, a retail and online platform in the form of a Shopify store front to serve their customers.
 
+![database](https://github.com/Ifeoma28/data_mart/blob/e0e67635ad77d0a3ceea0a77a46f5cf2389f9203/db.datamart.png)
+
 Customer segment and customer_type data relates to personal age and demographics information that is shared with Data Mart
 transactions is the count of unique purchases made through Data Mart and sales is the actual dollar amount of purchases.
 
