@@ -152,9 +152,9 @@ The increase in guest sales (especially those with unknown customer details) may
 
 
 
-## Transaction percentage change 12 weeks within baseline date
+## Transaction percentage change 12 weeks within baseline.
 
-![transaction change](https://github.com/Ifeoma28/data_mart/blob/f9283f526bd9ac679ce5ce48fb20ee73d498306c/Transaction%20percentage%20change%2012%20weeks.png)
+![transaction](https://github.com/Ifeoma28/data_mart/blob/c8cd8c359cad8ebe2b354f73496febdc0de5afd8/transaction%20%25%20change.png)
 The transaction decline of -1% overall is modest, considering the strong positive activity from couples and retirees.
 
 The drop in Shopify transactions among couples slightly offset these gains.
