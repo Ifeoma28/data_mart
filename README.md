@@ -212,7 +212,7 @@ Sustainability update appears to positively impact Shopify more than Retail.
 ![sustainability](https://github.com/Ifeoma28/data_mart/blob/1e0a6d37d938e322c0a251a61c9cf2fa9fbe0260/sustainability%20changes.png)
 
 ## RECOMMENDATION
-- Better Segmentation for unknown demographics and age band.
+- Improve demographic data collection to unlock smarter targeting—especially where 52% of transactions are tied to unknown customer types.
 - Double down on new customer acquisition 
 - Continue to invest in campaigns,referral programs or first-time buyer incentives to sustain this positive momentum
 - We can see from the sales by customer type that existing customers show a slight negative impact on sales
