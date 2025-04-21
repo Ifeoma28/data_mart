@@ -201,14 +201,23 @@ Sustainability update appears to positively impact Shopify more than Retail.
 - We can see from the sales by customer type that existing customers show a slight negative impact on sales
   To help this, analyzing churn behaviour or drop-off points in each region and collecting feedbacks from existing customers to
   identify pain-points(eg surveys)
-- 
+- Prioritize Shopify Engagement
+Capitalize on Shopify’s high ATV (81.27%) and positive sales growth by tailoring premium offers or loyalty programs to this high-value segment.
 
+- Monitor Retail Trends & Couples’ Behavior
+Retail platform shows overall decline. The Retail-Couples group had an 83% increase in transactions, highlighting a potential niche—invest in storytelling, promotions, or bundles that resonate with this group.
+
+Examine 15% retail sales decline contributors and test targeted recovery strategies.
 
 
 - Make region-specific plans rather than one-size-fits-all approaches. for instance Shopify in Europe stays consistent but doesn’t grow much—indicating a mature market.
+- Re-evaluate the retail model for Canada, Europe and South America to understand the sales stagnancy.
+By Assessing store format, pricing, and customer experience.
 
 ## How to Minimize Future Impact of Sustainability Updates
 -Platform Optimization:
 Focus Shopify as the lead platform for product categories or campaigns tied to sustainability.
 
 Leverage its higher average transaction value and steady customer base to absorb potential impact.
+
+- Understanding which demographic and age band affects sales more and getting their preferences through Surveys before a sustainability change is made.
