@@ -132,6 +132,8 @@ Average transaction value breakdown
 
 ### Sales percentage change 4 weeks within baseline date
 
+![sales 4-week](https://github.com/Ifeoma28/data_mart/blob/54aaa40e54fbb55393bdce133ef6788b67288c05/sales%20%25%204%20weeks.png)
+
 Even with a net -1% dip in overall sales, strong upward trends in key segments suggest:
 
 New acquisition efforts are working, especially among retiree couples in Europe.
