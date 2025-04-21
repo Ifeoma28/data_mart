@@ -153,26 +153,46 @@ The drop in Shopify transactions among couples slightly offset these gains.
 Retail is the stronger-performing platform for the key demographic of retiree couples.
 
 ## KEY INSIGHTS
-- Transactions decreased by 1% overall within the 12-week baseline window with Platform-level-performance
-  Shopify 0.06%
-   retail -0.03%
-- Sales decreased by 1% overall within the 12-week baseline window with Platform-level-performance
-  Shopify 0.05%
-  retail -0.01%
-- Europe Drove Growth
-  4% contribution from Europe,while Asia and South America drove growth for Shopify sales showing regional strength and engagement
-- New customers added +9% to transaction growth, signaling strong acquisition or onboarding efforts.
-- Retirees Are Highly Active
-Retirees alone contributed +14%, revealing them as a growing and highly engaged segment.
-- 15% of retail sales  contributed to the overall transaction change decline with +14%  coming from couples, showing their strong influence, especially among retirees.
-- Guest customers have the highest transaction count.
-- New customer impact is 3% indicating a positive contribution to overall sales in the 12week period and also a 9% impact on transaction change
-- - Retail Couples Lead the Pack with an 83% increase in transaction
-- A lot of our customers demographic were unkwown especially among Shopify customers and they showed a 5.5% increase in transaction
-- Couples has the highest number of transactions (47.04%) from the total transactions.
-- Shopify Is Losing Couples,-2% contribution from couples on Shopify indicates platform disengagement or dissatisfaction in this group.
-- Shopify platform has a higher average transaction value (81.27%) indicating higher spending customers
-- Shopify Platform sales increases after sustainability changes as the AVT percentage change is higher compared to retail.
+- Overall Platform Impact (12 Weeks)
+Sales decreased by 1%, with Shopify up +0.05% and Retail down -0.01%.
+
+Transactions declined by 1%, though Shopify rose +0.06%, and Retail fell -0.03%.
+
+Average Transaction Value (ATV) improved by +5%.
+
+- New customers contributed:
+
++3% to overall sales.
+
++9% to transaction growth – suggesting effective acquisition/onboarding.
+
+Retirees showed a +14% boost in transactions – a growing, highly engaged segment.
+
+Couples made up 47.04% of total transactions and drove an 83% transaction growth in Retail.
+
+Guest customers logged the highest transaction count.
+
+Shopify is losing Couples, contributing -2% to platform sales – potential disengagement or dissatisfaction.
+
+- Regional & Platform Trends
+Europe drove growth with a +4% contribution.
+
+Shopify sales saw regional strength in Asia and South America.
+
+South America is a standout driver for Shopify sales (noted in flow diagram).
+
+
+- Demographics
+A high number of unknown age bands and demographics exist, especially in Shopify.
+
+"Unknown" group showed a +5.5% transaction increase.
+
+Highlights the need for better segmentation and data completeness.
+
+- Shopify has the highest ATV at 81.27%, pointing to higher-spending customers.
+
+Sustainability update appears to positively impact Shopify more than Retail.
+
 
 ## RECOMMENDATION
 - Better Segmentation
