@@ -32,6 +32,7 @@ Each record in the dataset is related to a specific aggregated slice of the unde
 - A month_number with the calendar month for each week_date value as the 3rd column.
 - A calendar_year column as the 4th column containing either 2018, 2019 or 2020 values.
 - A new column called age_band after the original segment column using the following mapping on the number inside the segment value.
+![age band](https://github.com/Ifeoma28/data_mart/blob/5f5af0e4e90a71ec6ee68165c031deeada89769b/age%20band.png)
 - A new demographic column using the following mapping for the first letter in the segment values:
 
 - Ensured all null string values with an "unknown" string value in the original segment column as well as the new age_band and demographic columns.
